@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1658494409,,"wq!"
+|2,0,1658725596,,"wq!"
 ::wq!
 |2,0,1658319886,,":wq!"
 :wwq!
@@ -34,36 +34,92 @@
 |3,1,36,0,1,0,1658133699,"t"
 
 # File marks:
-'0  4  0  ~/namba.sh
-|4,48,4,0,1658494409,"~/namba.sh"
-'1  4  0  ~/namba.sh
-|4,49,4,0,1658494367,"~/namba.sh"
-'2  3  3  ~/.gitignore
-|4,50,3,3,1658493961,"~/.gitignore"
-'3  1  0  ~/.gitignore
-|4,51,1,0,1658493871,"~/.gitignore"
-'4  1  0  ~/.gitignore
-|4,52,1,0,1658493871,"~/.gitignore"
-'5  1  4  ~/shellscript/old.sh
-|4,53,1,4,1658319991,"~/shellscript/old.sh"
-'6  2  7  ~/shellscript/exist.sh
-|4,54,2,7,1658319932,"~/shellscript/exist.sh"
-'7  2  11  ~/shellscript/exist.sh
-|4,55,2,11,1658319886,"~/shellscript/exist.sh"
-'8  2  14  ~/shellscript/exist.sh
-|4,56,2,14,1658319859,"~/shellscript/exist.sh"
-'9  2  14  ~/shellscript/exist.sh
-|4,57,2,14,1658319859,"~/shellscript/exist.sh"
+'0  2  1  ~/karn.sh
+|4,48,2,1,1658725596,"~/karn.sh"
+'1  1  0  ~/swami.sh
+|4,49,1,0,1658725580,"~/swami.sh"
+'2  4  0  ~/namba.sh
+|4,50,4,0,1658494409,"~/namba.sh"
+'3  4  0  ~/namba.sh
+|4,51,4,0,1658494367,"~/namba.sh"
+'4  3  3  ~/.gitignore
+|4,52,3,3,1658493961,"~/.gitignore"
+'5  1  0  ~/.gitignore
+|4,53,1,0,1658493871,"~/.gitignore"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1658493871,"~/.gitignore"
+'7  1  4  ~/shellscript/old.sh
+|4,55,1,4,1658319991,"~/shellscript/old.sh"
+'8  2  7  ~/shellscript/exist.sh
+|4,56,2,7,1658319932,"~/shellscript/exist.sh"
+'9  2  11  ~/shellscript/exist.sh
+|4,57,2,11,1658319886,"~/shellscript/exist.sh"
 
 # Jumplist (newest first):
+-'  2  1  ~/karn.sh
+|4,39,2,1,1658725596,"~/karn.sh"
+-'  1  0  ~/karn.sh
+|4,39,1,0,1658725587,"~/karn.sh"
+-'  1  0  ~/swami.sh
+|4,39,1,0,1658725580,"~/swami.sh"
+-'  1  0  ~/swami.sh
+|4,39,1,0,1658725580,"~/swami.sh"
 -'  4  0  ~/namba.sh
 |4,39,4,0,1658494409,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494409,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494409,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494409,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494367,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494367,"~/namba.sh"
+-'  4  0  ~/namba.sh
+|4,39,4,0,1658494367,"~/namba.sh"
 -'  4  0  ~/namba.sh
 |4,39,4,0,1658494367,"~/namba.sh"
 -'  1  0  ~/namba.sh
 |4,39,1,0,1658494353,"~/namba.sh"
 -'  1  0  ~/namba.sh
 |4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  1  0  ~/namba.sh
+|4,39,1,0,1658494353,"~/namba.sh"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
+-'  3  3  ~/.gitignore
+|4,39,3,3,1658493961,"~/.gitignore"
 -'  3  3  ~/.gitignore
 |4,39,3,3,1658493961,"~/.gitignore"
 -'  3  3  ~/.gitignore
@@ -80,6 +136,54 @@
 |4,39,1,0,1658493934,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493934,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1658493871,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1658493871,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -120,144 +224,54 @@
 |4,39,1,4,1658319991,"~/shellscript/old.sh"
 -'  1  4  ~/shellscript/old.sh
 |4,39,1,4,1658319991,"~/shellscript/old.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  7  ~/shellscript/exist.sh
-|4,39,2,7,1658319932,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  11  ~/shellscript/exist.sh
-|4,39,2,11,1658319886,"~/shellscript/exist.sh"
--'  2  14  ~/shellscript/exist.sh
-|4,39,2,14,1658319859,"~/shellscript/exist.sh"
--'  2  14  ~/shellscript/exist.sh
-|4,39,2,14,1658319859,"~/shellscript/exist.sh"
--'  2  14  ~/shellscript/exist.sh
-|4,39,2,14,1658319859,"~/shellscript/exist.sh"
--'  2  14  ~/shellscript/exist.sh
-|4,39,2,14,1658319859,"~/shellscript/exist.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
+-'  1  4  ~/shellscript/old.sh
+|4,39,1,4,1658319991,"~/shellscript/old.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/karn.sh
+	*	1658725594	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	2	1
+
+> ~/swami.sh
+	*	1658725574	0
+	"	1	0
+	^	2	0
+	.	1	1
+	+	1	1
 
 > ~/namba.sh
 	*	1658494403	0

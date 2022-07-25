@@ -185,3 +185,41 @@ git remote -v
 gti push start nani
 git push start nani
 git log
+ls -lrt
+vi .gitignore
+ls -lrt
+touch .lam
+touch.lan
+touch .lan
+touch .lak
+vi .gitignore
+git add .gitignore
+git commit -m "commiting .gitignore"
+git push wm nani
+git push nani
+git remote -v
+git push start nani
+git checkout master
+git branch
+git branch development
+git branch
+git chckout development
+git checkout development
+touch namba.sh
+vi namba.sh
+git checkout nani
+vi namba.sh
+git diff branchname
+git branch development
+git diff nani
+git diff development
+git merge nani
+git add .
+git merge -a -m 'third comment"
+git merge -m 'third comment"
+nanai
+nani
+development
+git commit -m "third commit"
+git push srart nani
+git push start nani

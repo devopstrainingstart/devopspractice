@@ -223,3 +223,15 @@ development
 git commit -m "third commit"
 git push srart nani
 git push start nani
+git branch
+git checkout -b stage
+vi namo.sh
+git branch
+git checkout development
+git checkout nani
+git merge -a -m "updated
+git merge -a -m "updated"
+git merge -m "updated"
+git commit -a -m "updated"
+git push wm --all
+git push start --all

@@ -185,3 +185,29 @@ git remote -v
 gti push start nani
 git push start nani
 git log
+git branch
+git chckout stage
+git checkout stage
+vi swami.sh
+vi karn.sh
+git stash save "commented"
+git stash list
+git stash pop
+gti stasg appy stash{0}
+git stash apply stash@{0}
+git add .
+gti satus
+git status
+git add karn.sh
+gti commit -m "pushed"
+git commit -m "pushed"
+git status
+git branch
+git chckout stage
+git checkout stage
+git commit -m "done
+git commit -m "done"
+it add --all
+git add --all
+git commit -m "done"
+vi swami.sh
